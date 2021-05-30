@@ -26,7 +26,7 @@ MyPromise.all = function (values) {
   })
 }
 ```
-
+Promise
 ```javascript
 
 ```
